@@ -35,3 +35,9 @@
     display: none;
   }
 }
+
+@media only screen and (min-width: 300px) and (max-width: 768px) and (orientation: landscape) {
+  #no-vertical {
+    display: none;
+  }
+}
